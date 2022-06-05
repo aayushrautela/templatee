@@ -1,3 +1,5 @@
 # This file will be read by resetprop
 # Example: Change dpi
 # ro.sf.lcd_density=320
+ro.build.fingerprint=google/raven/raven:12/SP2A.220505.002/8353555:user/release-keys
+ro.build.version.security_patch=2022-05-05
