@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=ravenprops
+name=Pixel 6 pro props
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=rautela4488
+description=Sets device fingerprint and security patch date as Raven's.
 template=3
